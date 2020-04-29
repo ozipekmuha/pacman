@@ -273,7 +273,7 @@ function refresh() {
         setTimeout(refresh, 300)
     }
 }
+
 refresh()
 document.body.addEventListener("keydown", appuieTouche)
-
 

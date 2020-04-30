@@ -18,22 +18,23 @@
 }
 
 .sol{
-    background-image: url(./img/sol1.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+  
+    background-color: black;
 }
 
 .bonbon{
-    background-image: url(./img/bonbon1.jpg);
+    background-image: url(./img/bille.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 
+
 #pacman{
     background-image: url(./img/pacman4.gif);
 }
+
 
 .ensemble{
 
@@ -51,4 +52,32 @@ h2{
 
 #fantome{
     background-image: url(./img/fantome0.gif);
+}
+
+
+
+body{
+top: 0;
+bottom: 0;
+right: 0;
+left: 0;
+margin: 0 auto;
+
+
+}
+
+
+
+#fantome1{
+    background-image: url(./img/fantome1.gif);
+}
+
+
+#fantome2{
+    background-image: url(./img/fantome2.gif);
+}
+
+
+#fantome3{
+    background-image: url(./img/fantome3.gif);
 }
